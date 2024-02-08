@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f169cabe5a41009e",
+        "id": "8e2a1b168e884836",
         "type": "tabs",
         "children": [
           {
-            "id": "77b370575420c568",
+            "id": "f50c33f593ecb15a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,8 +147,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "77b370575420c568",
+  "active": "f50c33f593ecb15a",
   "lastOpenFiles": [
+    "all md file/C++.md",
     "目录.md",
     "README.md",
     "all md file/C语言.md",
