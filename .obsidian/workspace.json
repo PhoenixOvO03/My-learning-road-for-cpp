@@ -102,7 +102,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -129,8 +129,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -149,12 +148,12 @@
   },
   "active": "f50c33f593ecb15a",
   "lastOpenFiles": [
-    "README.md",
-    "目录.md",
-    "all md file/C++.md",
-    "all md file/C11.md",
     "all md file/CMake.md",
+    "目录.md",
+    "README.md",
+    "all md file/C11.md",
     "all md file/C语言.md",
+    "all md file/C++.md",
     "all md file",
     "index for all md.md",
     "assets/Pasted image 20240128142145.png",
