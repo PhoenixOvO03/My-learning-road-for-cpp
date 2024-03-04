@@ -5,3 +5,23 @@
 # 输入输出
 
 C++支持C语言的cmd输入输出，这里介绍一种C++的输入（cin）和输出（cout）
+```c++
+#include <iostream>
+
+int main()
+{
+	int i;
+	cin >> i; // scanf("%d", &i);
+	cout << "i = " << i << endl; // printf("i = %d\n", i);
+
+	return 0;
+}
+```
+
+# 类和对象
+
+## 封装
+
+## 继承
+
+## 多态
